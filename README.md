@@ -10,7 +10,7 @@ API REST para un sistema de punto de venta con generación de facturas y anális
 - 🗄️ SQL Server (transaccional)
 - 📊 PostgreSQL (analytics)
 - 🧾 iText7 (generación de PDF)
-- 🔐 Autenticación con cookies
+- 🔐 Autenticación con jwt
 
 ---
 
