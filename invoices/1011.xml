@@ -1,0 +1,9 @@
+<Comprobante Version="4.0" SubTotal="1199.97" Total="1391.97" Moneda="MXN" TipoDeComprobante="I" xmlns="http://www.sat.gob.mx/cfd/4">
+  <Emisor Rfc="AAA010101AAA" Nombre="Borcelle SA de CV" RegimenFiscal="601" />
+  <Receptor Rfc="QGLM881019JP0" Nombre="Bruno" DomicilioFiscalReceptor="09609" RegimenFiscalReceptor="605" UsoCFDI="G01" />
+  <Conceptos>
+    <Concepto Cantidad="1" ValorUnitario="399.99" Importe="399.99" Descripcion="Producto Borcelle" />
+    <Concepto Cantidad="1" ValorUnitario="199.99" Importe="199.99" Descripcion="Producto Borcelle" />
+    <Concepto Cantidad="1" ValorUnitario="599.99" Importe="599.99" Descripcion="Producto Borcelle" />
+  </Conceptos>
+</Comprobante>
