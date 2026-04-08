@@ -39,3 +39,13 @@ GET /api/invoices/{id}/pdf
 ```http
 GET /api/analytics/daily
 GET /api/analytics/summary
+```
+---
+## 🔗 FronEnd
+
+Este frontend consume la API:
+
+👉 https://github.com/MonseJM/pos-system-app
+
+---
+
