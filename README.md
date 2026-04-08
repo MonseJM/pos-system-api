@@ -35,7 +35,7 @@ GET /api/invoices/{id}/xml
 GET /api/invoices/{id}/pdf
 ```
 
-###📊 Analytics
+📊 Analytics
 ```http
 GET /api/analytics/daily
 GET /api/analytics/summary
